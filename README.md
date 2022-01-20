@@ -1,7 +1,7 @@
-# ZMXhudCPBBMxl - THE 90 SLOT BACKPACK EXTENSION MODLET
+# ZMXuiCPBBMxl - THE 90 SLOT BACKPACK EXTENSION MODLET
 > Verified to work with: A20.0B238 & A20.1B5
 
-> Dependencies: SMXui.
+> Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
 > Compatibility: Will probably work with most mods that doesn't modify the same windows in the XUI files.
 
@@ -10,10 +10,10 @@
 
 With the release of A20 SMXhud has now evolved into the world of Harmony. This means that it does now mod deeper than ever before and that opens the door for more and better features. On the flip side this means it is no longer EAC friendly, so turn EAC off.
 
-ZMXhudCPBBMxl converts the backpack into a 90 slot version for SMXui.
+ZMXuiCPBBMxl converts the backpack into a 90 slot version for SMXui.
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1642640310-414252978.jpeg" width="1080" title="ZMXhudCPBBM - 63 Slot Backpack - A20">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1642640310-414252978.jpeg" width="1080" title="ZMXuiCPBBMxl - 90 Slot Backpack - A20">
 </p>
 
 
