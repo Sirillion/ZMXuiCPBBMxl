@@ -1,5 +1,5 @@
 # ZMXuiCPBBMxl - THE 90 SLOT BACKPACK EXTENSION MODLET
-> Verified to work with: A20.0B238 & A20.1B5
+> Verified to work with: A20.2B2
 
 > Dependencies: [SMXui](https://github.com/Sirillion/SMXui).
 
