@@ -4,7 +4,7 @@
 
 		<!-- SMX COMMENT: BBM Conversions can be further manipulated by following the comments on each line. -->
 		<set xpath="/windows/window[@name='windowBackpack']/@width">810</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
-		<set xpath="/windows/window[@name='windowBackpack']/smxlib_window_design/@width">810</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
+		<set xpath="/windows/window[@name='windowBackpack']/smxcore_window_design/@width">810</set> <!-- SMX COMMENT: This number = cell_width x cols + 130 -->
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@width">700</set> <!-- SMX COMMENT: This number = cell_width x cols + 20 -->
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@rows2">9</set>
 		<set xpath="/windows/window[@name='windowBackpack']/smxui_window_design_content_inventory/@cols">10</set>
